@@ -14,3 +14,6 @@ This project focuses on analyzing HR data to understand workforce composition, e
 
 ### Conclusion
 The analysis highlights key workforce trends, including the dominance of online recruitment platforms, a strong presence of employees in the production department, and moderate to high employee satisfaction levels. These insights can help HR teams improve hiring strategies, workforce planning, and employee retention initiatives.
+
+
+![HR Dashboard](Dashboard_image.png)
